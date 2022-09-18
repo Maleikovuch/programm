@@ -1,11 +1,11 @@
-﻿Console.WriteLine("Укажиет к какому другу бежит собака");
-int friend = Convert.ToInt32(Console.ReadLine());
-int dist = 100;
-int first_friend_speed = 1;
-int second_friend_speed = 2;
-int dog_speed = 5;
-int count = 0;
-int time = 0;
+﻿Console.Write("Укажите к какому другу бежит собака:  ");
+double friend = Convert.ToInt32(Console.ReadLine());
+double dist = 100;
+double first_friend_speed = 1;
+double second_friend_speed = 2;
+double dog_speed = 5;
+double count = 0;
+double time = 0;
 
 
 while(dist > 10)
@@ -27,4 +27,4 @@ while(dist > 10)
 
     count++;
  }
-Console.WriteLine($"Сколько раз пробежит собака = {count}");
+Console.WriteLine($"Сколько раз пробежит собака - {count}");
