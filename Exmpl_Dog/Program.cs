@@ -19,5 +19,5 @@ while(dist > 10)
     }
     dist = dist - (first_friend_speed + second_friend_speed) * time;
     count++;
- }
+}
 Console.WriteLine($"Сколько раз пробежит собака - {count}");
