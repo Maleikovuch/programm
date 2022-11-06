@@ -1,6 +1,6 @@
 ﻿Console.Write("Собака бежит к 1 другу или к 2? Ваш ответ: ");
 int friend = Convert.ToInt32(Console.ReadLine());
-double dist = 10000;
+double dist = 19000;
 double first_friend_speed = 1;
 double second_friend_speed = 2;
 double dog_speed = 5;

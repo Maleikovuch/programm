@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Малейкович\\Desktop\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+      "projectUniqueName": "C:\\Users\\Малейкович\\Desktop\\Обучение\\Лекции по ОПП\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
       "projectName": "Example001_HelloConsole",
-      "projectPath": "C:\\Users\\Малейкович\\Desktop\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+      "projectPath": "C:\\Users\\Малейкович\\Desktop\\Обучение\\Лекции по ОПП\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
       "packagesPath": "C:\\Users\\Малейкович\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Малейкович\\Desktop\\Examples\\Example001_HelloConsole\\obj\\",
+      "outputPath": "C:\\Users\\Малейкович\\Desktop\\Обучение\\Лекции по ОПП\\Examples\\Example001_HelloConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Малейкович\\AppData\\Roaming\\NuGet\\NuGet.Config"

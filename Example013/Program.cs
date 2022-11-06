@@ -1,10 +1,10 @@
 ﻿// МЕТОДЫ
 
-// void Method1()
-// {
-//     Console.WriteLine("Автор: Малейкович М. А.");
-// }
-// Method1();
+void Method1()
+{
+    Console.WriteLine("Автор: Малейкович М. А.");
+}
+Method1();
 
 // void Method2(string msg)
 // {
@@ -52,7 +52,7 @@
 
 // string Method4(int count, string text)
 // {
-//     ;
+    
 //     string result = String.Empty;
 //     for (int i = 0; i < count; i++)
 //     {
@@ -65,11 +65,11 @@
 
 // ЦИКЛ В ЦИКЛЕ
 
-for (int i = 2; i <=10; i++)
-{
-    for (int j = 2; j <=10; j++)
-    {
-        Console.WriteLine($"{i} X {j} = {i*j}");
-    }
-    Console.WriteLine();
-}
+// for (int i = 2; i <=10; i++)
+// {
+//     for (int j = 2; j <=10; j++)
+//     {
+//         Console.WriteLine($"{i} X {j} = {i*j}");
+//     }
+//     Console.WriteLine();
+// }

@@ -1,7 +1,7 @@
 ﻿int[] arroy = { 11, 25, 31, 45, 22, 15, 74, 31, 22 };
 
 int n = arroy.Length;
-int find = 22;
+int find = 15;
 
 int index = 0;
 
